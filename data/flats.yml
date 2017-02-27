@@ -1,0 +1,44 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture:  card-paris.jpg
+  owner_picture: seb.jpg
+  name: Seb's Castle
+  summary: Studio at the top of Eiffel tower
+  city: Paris, France
+  wifi: true
+  number_of_reviews: 75
+  juicer: "yes"
+  jaccuzzi: "yes"
+anne:
+  owner_name: Anne
+  picture: card-brussels.jpeg
+  owner_picture: anne.jpg
+  name: Anne's home
+  summary: House in a tree
+  city: Brussels
+  wifi: false
+  number_of_reviews: 2
+  juicer: "no"
+  jaccuzzi: "no"
+romain:
+  owner_name: Romain
+  picture: card-london.jpeg
+  owner_picture: romain.jpeg
+  name: Romain's home
+  summary: Live in a boat
+  city: London
+  wifi: false
+  number_of_reviews: 2
+  juicer: "no"
+  jaccuzzi: "no"
+caro:
+  owner_name: Caro
+  picture: stockholm.jpg
+  owner_picture: caro.jpg
+  name: Caro's home
+  summary: A bed inside a zoo
+  city: Stockholm
+  wifi: false
+  number_of_reviews: 2
+  juicer: "no"
+  jaccuzzi: "no"
